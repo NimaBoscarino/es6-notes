@@ -2,7 +2,7 @@
 
 For a runnable file, see demo.js.
 
-See slides.html for discussion about ES6 history, and discussion about transpilers/polyfills. Scroll to the bottom of this document for some links to resources.
+See slides.pdf for discussion about ES6 history, and discussion about transpilers/polyfills. Scroll to the bottom of this document for some links to resources.
 
 The other topics we covered are...
 
