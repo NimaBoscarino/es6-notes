@@ -27,7 +27,8 @@ The other topics we covered are...
 Using `var` **HOISTS** variable declarations.
 
 This is bad, because it lets us do weird things like this
-    {
+
+	{
 	    console.log(i) // "undefined", when we'd rather get a ReferenceError
 	    for (var i = 0; i<10; i++) {
 		    console.log(i)
