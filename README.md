@@ -1,6 +1,6 @@
 # ES6 Breakout Notes
 
-For a runnable file, see demo.js.
+See demo.js for an executable file.
 
 See slides.pdf for discussion about ES6 history, and discussion about transpilers/polyfills. Scroll to the bottom of this document for some links to resources.
 
