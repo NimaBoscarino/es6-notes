@@ -1,5 +1,7 @@
 # ES6 Breakout Notes
 
+REPO: https://github.com/NimaBoscarino/es6-notes
+
 For a runnable file, see demo.js.
 
 See slides.pdf for discussion about ES6 history, and discussion about transpilers/polyfills. Scroll to the bottom of this document for some links to resources.
