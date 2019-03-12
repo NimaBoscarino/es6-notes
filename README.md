@@ -2,6 +2,8 @@
 
 REPO: https://github.com/NimaBoscarino/es6-notes
 
+Kawaii Faces: https://kawaiiface.net/
+
 For a runnable file, see demo.js.
 
 See slides.pdf for discussion about ES6 history, and discussion about transpilers/polyfills. Scroll to the bottom of this document for some links to resources.
@@ -119,7 +121,8 @@ Whereas if I did this with a function expression, `this` gets re-bound.
 
 Also note, while function expressions can be named (e.g. `function test () { ... }` ), arrow functions **CANNOT**. Arrow functions are always ANONYMOUS functions.
 
-  
+Also, [here's a link](https://hackernoon.com/javascript-es6-arrow-functions-and-lexical-this-f2a3e2a5e8c4) for anyone who's interested in learning more about "this" and arrow functions.  
+
 ## 5. Destructuring Objects
 
 Getting values out of arrays or objects one-by-one is LAME!
@@ -184,3 +187,8 @@ For further reading, check out
 2. JavaScript: The Good Parts (Book by Douglas Crockford)
 
 3. https://caniuse.com/
+
+
+
+
+IF YOUR THING ACTS WEIRD AND YOU HAVE THE WORD "THIS" IN YOUR CODE (FUNCTION), LOOK AT LEARNING ABOUT ARROW FUNCTION THIS STUFF.
