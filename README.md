@@ -4,9 +4,11 @@ REPO: https://github.com/NimaBoscarino/es6-notes
 
 Kawaii Faces: https://kawaiiface.net/
 
-For a runnable file, see demo.js.
+Our code is in `script.js`, with the old (bad!) version in `script_bad.js`.
 
-See slides.pdf for discussion about ES6 history, and discussion about transpilers/polyfills. Scroll to the bottom of this document for some links to resources.
+For a breakdown of each different feature of ES6, see `demo.js`.
+
+See `slides.pdf` for discussion about ES6 history, and discussion about transpilers/polyfills. Scroll to the bottom of this document for some links to resources.
 
 The other topics we covered are...
 
